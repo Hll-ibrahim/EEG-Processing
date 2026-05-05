@@ -1,5 +1,9 @@
 mne
 numpy
-scipy
+pandas
 matplotlib
+seaborn
+scipy
 scikit-learn
+braindecode
+torch
